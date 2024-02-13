@@ -96,4 +96,4 @@ px.scatter(df, x=df.employee_residence.sort_values(), y = df.company_location.so
 ```
 
 
-### See you in the next project. I wish you healthy days.
+
